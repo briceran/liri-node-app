@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "command line node tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briceran/liri-node-app.git"
+  },
+  "author": "Brice Randolph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briceran/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/briceran/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
